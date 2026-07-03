@@ -1,7 +1,7 @@
 # SFMLpp
 This repository contains files for both header-only and "regular" version of SFMLpp library. SFMLpp is an addition to SFML and is used with SFML. SFMLpp alows you to create gui with SFML much more easily. You can create better Textblocks, TextBoxes, Labels, Buttons, Progress Bars, Flow Layout Panels, Grids and more...
 ## SFML
-SFML is Simple Fast Multi-Media Library which includes creating a window, simple graphical objects, loding images and videos, playing audio, network comunication and some other system types and configurations. It also let's you use OpenGL directly on it's window. <br>
+SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. <br>
 <br>
 ### Resources:
 SFML website: https://www.sfml-dev.org/ <br>
