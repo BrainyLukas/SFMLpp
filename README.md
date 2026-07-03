@@ -1,5 +1,5 @@
 # SFMLpp
-This repository contains files for both header-only and "regular" version of SFMLpp library. SFMLpp is an addition to SFML and is used with SFML. SFMLpp alows you to create gui with SFML much more easily. You can create better Textblocks, TextBoxes, Labels, Buttons, Progress Bars, Flow Layout Panels, Grids and more...
+SFML provides gui elements as addition to already existing SFML library. With it you can creat apps and games faster than ever with modern elements and settings like those seen in WPF C# apps.
 ## SFML
 SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. <br>
 <br>
